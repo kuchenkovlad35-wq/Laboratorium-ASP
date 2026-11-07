@@ -1,0 +1,15 @@
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/bin/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/bin/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.deps.json
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/bin/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.runtimeconfig.json
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/bin/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.dll
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/bin/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.pdb
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.AssemblyInfoInputs.cache
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.AssemblyInfo.cs
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.csproj.CoreCompileInputs.cache
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.sourcelink.json
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.dll
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/refint/Programowanie w srodowisku ASP.NET lab-1.dll
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.pdb
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/Programowanie w srodowisku ASP.NET lab-1.genruntimeconfig.cache
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net9.0/ref/Programowanie w srodowisku ASP.NET lab-1.dll

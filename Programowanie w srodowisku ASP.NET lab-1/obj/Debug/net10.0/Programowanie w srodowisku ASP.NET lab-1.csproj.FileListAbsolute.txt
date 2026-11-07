@@ -1,0 +1,5 @@
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net10.0/Programowanie w srodowisku ASP.NET lab-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net10.0/Programowanie w srodowisku ASP.NET lab-1.AssemblyInfoInputs.cache
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net10.0/Programowanie w srodowisku ASP.NET lab-1.AssemblyInfo.cs
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net10.0/Programowanie w srodowisku ASP.NET lab-1.csproj.CoreCompileInputs.cache
+/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/obj/Debug/net10.0/Programowanie w srodowisku ASP.NET lab-1.sourcelink.json
