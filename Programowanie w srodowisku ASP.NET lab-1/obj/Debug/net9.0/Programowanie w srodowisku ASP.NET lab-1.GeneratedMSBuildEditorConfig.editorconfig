@@ -8,6 +8,7 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Programowanie_w_srodowisku_ASP.NET_lab_1
 build_property.ProjectDir = /Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/Programowanie w srodowisku ASP.NET lab-1/

@@ -8,6 +8,7 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookStore.Web
 build_property.RootNamespace = BookStore.Web
@@ -24,6 +25,10 @@ build_property.EnableCodeStyleSeverity =
 
 [/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/BookStore.Web/Views/Book/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/BookStore.Web/Views/BookControllerNonValuable/DetailsNonValuable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0NvbnRyb2xsZXJOb25WYWx1YWJsZS9EZXRhaWxzTm9uVmFsdWFibGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/vladecio/RiderProjects/Programowanie w srodowisku ASP.NET lab-1/BookStore.Web/Views/Home/Index.cshtml]

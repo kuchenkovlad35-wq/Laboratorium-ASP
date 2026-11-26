@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programowanie w srodowisku ASP.NET lab-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dfa6452dccca341e704b563a43aab9a8f4c8dce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc86a92330a9626f4f52441a7bc2776e29acf754")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programowanie w srodowisku ASP.NET lab-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programowanie w srodowisku ASP.NET lab-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
